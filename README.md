@@ -1,4 +1,19 @@
 
+# 👋 Hi, I'm Shubham Kumar Singh! 
+
+🚀 **Full-Stack Developer | Software Engineer | Tech Enthusiast**
+
+Welcome to my GitHub profile! I am a passionate developer who loves building scalable web applications and solving complex problems. With a strong foundation in both frontend and backend technologies, I enjoy turning ideas into clean, efficient code.
+
+- 🛠️ Currently working with **Java / Spring** and the **MERN / PERN Stack** (MongoDB, Postgres, Express, React, Node.js, TypeScript).
+- 🧠 Deeply interested in **Data Structures & Algorithms (C++/Java)** and exploring **Data Science (Python, NumPy, Pandas)**.
+- 💬 Ask me about **Web Development, Database Design, or Java Ecosystem**.
+- 📫 How to reach me: Check out my social links below!
+
+---
+
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shubham-kumar-singh-891932378) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shubham12an@gmail.com) 
 
